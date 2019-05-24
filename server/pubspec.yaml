@@ -1,0 +1,15 @@
+name: server
+description: Example server project for R-Vision team
+
+dependencies:
+  json_rpc_2: ^2.1.0
+  uuid: 2.0.0
+  shelf_web_socket: ^0.2.3
+  web_socket_channel: ^1.0.12
+  intl: ^0.15.8
+  jaguar_query_postgres:
+  jaguar_orm: 
+
+dev_dependencies:
+  jaguar_orm_gen: 
+  build_runner:
