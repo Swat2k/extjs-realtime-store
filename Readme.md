@@ -3,7 +3,7 @@ An example of realtime stor implementation and their synchronization between dif
 ### Features
 
 - Direct provider with rpc 2.0 support
-- Receive websockets notifications;
+- Receive websockets notifications
 - Backend written in Dart (postgres database)
 - Transparent data synchronization without exclusive locks and merge problems
 
