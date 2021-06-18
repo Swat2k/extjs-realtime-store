@@ -1,4 +1,4 @@
-An example of realtime stor implementation and their synchronization between different clients
+An example of realtime store implementation and their synchronization between different clients
 
 ### Features
 
@@ -15,4 +15,4 @@ An example of realtime stor implementation and their synchronization between dif
 
 ### Configuration
 
-See globals.dart (for backend), and App.config.Settings (for frontend)
+See globals.dart (for backend), and App.config.Settings (class for frontend)
